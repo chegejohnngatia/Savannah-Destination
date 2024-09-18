@@ -18,7 +18,7 @@ img {
   border-radius: 50%;
 }
 #firstimage {
-  background-image: url("images/images\ \(francis\).jpg");
+  background-image: url("images\ \(francis\).jpg");
 }
 #secondimage {
   background-image: url("images/images\ \(lucy\).jpg");
